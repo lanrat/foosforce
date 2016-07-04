@@ -11,7 +11,7 @@
 #define DIGIT3  0x7D
 #define DIGIT4  0x7E
 
-int minInteruptDelay = 1000; // 3s
+int minInteruptDelay = 1000; // 1s
 int brightnessThreashold = 700;
 
 int scoreA = 0;
