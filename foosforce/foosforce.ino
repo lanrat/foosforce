@@ -1,8 +1,8 @@
 #include <SoftwareSerial.h>
 
 #define resetPin 2
-#define goalAPin 0
-#define goalBPin 1
+#define goalAPin 1
+#define goalBPin 0
 #define displayTxPin 8
 #define displayRxPin 9
 
